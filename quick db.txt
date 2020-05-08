@@ -1,0 +1,4 @@
+npm i -g node-gyp
+npm i --global windows-build-tools --vs2015
+npm i --global windows-build-tools
+npm i quick.db --save

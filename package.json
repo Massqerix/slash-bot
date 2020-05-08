@@ -1,0 +1,23 @@
+{
+  "name": "slash",
+  "version": "1.0.9",
+  "description": "",
+  "main": "slash.js",
+  "scripts": {
+    "start": "node slash.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "discord.js": "^12.2.0",
+    "dotenv": "^8.2.0",
+    "env": "0.0.2",
+    "fetch": "^1.1.0",
+    "mathjs": "^6.6.4",
+    "ms": "^2.1.2",
+    "node-pre-gyp": "^0.14.0",
+    "quick.db": "^7.1.1",
+    "superagent": "^5.2.2"
+  }
+}
